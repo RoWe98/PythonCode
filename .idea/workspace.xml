@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8e97f4f-3d4e-4191-827e-65be0f595790" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScanIP/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f8e97f4f-3d4e-4191-827e-65be0f595790" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,26 +11,70 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScanIP/scan.py">
+        <entry file="file://$PROJECT_DIR$/BaiduImageAutoDownload/baiduImageDownload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="630">
+              <caret line="35" column="112" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="112" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="12" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/Main.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/kugou.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/kuwo.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/qianqian.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-496" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/qq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1668" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/wangyiyun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2176" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/xiami.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -74,12 +110,29 @@
             <path>
               <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Python-show-ip" type="462c0819:PsiDirectoryNode" />
+              <item name="BaiduImageAutoDownload" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
-              <item name="RexPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="getDoubanScore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="MusicDownloader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="MusicDownloader" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="MusicDownloader" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,25 +172,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558187871557</updated>
-      <workItem from="1558187874828" duration="299000" />
+      <workItem from="1558187874828" duration="1041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299000" />
+    <option name="totallyTimeSpent" value="1041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1600" height="825" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967907" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967907" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3287858" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3287858" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3628922" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -196,11 +248,68 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getDoubanScore/MovieScore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiduImageAutoDownload/baiduImageDownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="112" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="112" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/Main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/kugou.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/kuwo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/qianqian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/qq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1668" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/wangyiyun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicDownloader/platforms/xiami.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
