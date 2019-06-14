@@ -8,4 +8,4 @@
 - Python-show-ip 显示本机的ip地址
 - RexPlayer 一个拿tkinker编写的音乐播放器
 - ScanIP 可以扫描当前局域网的指定网段的所有主机的ip
-- 学习的人脸检测和识别代码
+- FaceDetect 学习的人脸检测和识别代码
