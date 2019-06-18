@@ -23,7 +23,7 @@ faces = faceCascade.detectMultiScale(
     minSize=(30, 30)
 )
 
-print("Found {0} Faces!".format(len(faces)))
+print("Found {0} Faces! in the Picture".format(len(faces)))
 
 # Draw a rectangle around the faces
 for(x, y, w, h) in faces:
