@@ -5,7 +5,8 @@ import sys
 import face_recognition
 
 # Get user supplied values
-imagePath = sys.argv[1]
+# imagePath = sys.argv[1]
+imagePath = "/Users/rex/Desktop/Code/Intelligence_classroom/image/1normal4.jpg"
 
 # Load the image from face_recognition
 image = face_recognition.load_image_file(imagePath)
