@@ -1,6 +1,7 @@
 # PythonCode
 **平常拿python写的代码和一些小工具**
 
+[MyBlog](https://www.luoshaoqi.cn)
 
 当然也包含我学习机器学习的代码
 - BaiduImageAutoDownload 可以自动下载百度图片
