@@ -3,6 +3,7 @@
 
 [MyBlog](https://www.luoshaoqi.cn)
 
+
 当然也包含我学习机器学习的代码
 - BaiduImageAutoDownload 可以自动下载百度图片
 - getDoubanScore 获得一个电影的豆瓣评分
@@ -12,3 +13,4 @@
 - RexPlayer 一个拿tkinker编写的音乐播放器
 - ScanIP 可以扫描当前局域网的指定网段的所有主机的ip
 - FaceDetect 学习的人脸检测和识别代码
+- FaceSign 一个人脸检测的小程序
